@@ -1,2 +1,2 @@
-# TM_Academy
-Homeworks
+# TechMagic Academy
+task 00. HTML / CSS
